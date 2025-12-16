@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h2>Etiquetas</h2>
+    
+    <ul>
+        {% for etiqueta in etiquetas %}
+            <li>{{ etiqueta.nombre }}</li>
+        {% empty %}
+            <li>No hay etiquetas.</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
