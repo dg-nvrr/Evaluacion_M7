@@ -10,17 +10,6 @@
 
 Plataforma integral para la administración de inventario enfocada en tiendas de deportes de alto rendimiento. Este proyecto implementa un sistema CRUD completo, gestión de multimedia y relaciones complejas de bases de datos, asegurando un código limpio y seguro.
 
----
-
-## 📸 Galería del Proyecto
-
-| Catálogo de Productos | Detalle y Ficha Técnica |
-|:---:|:---:|
-| ![Lista](capturas/2_crud_read_lista.png) | ![Detalle](capturas/3_crud_read_detalle.png) |
-
-| Creación con Imágenes | Zona de Peligro (Eliminar) |
-|:---:|:---:|
-| ![Crear](capturas/1_crud_create.png) | ![Eliminar](capturas/5_crud_delete.png) |
 
 ---
 
